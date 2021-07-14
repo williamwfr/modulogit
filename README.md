@@ -1,0 +1,1 @@
+Meu primeiro arquiivo no bash.
