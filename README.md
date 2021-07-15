@@ -1,1 +1,1 @@
-Meu primeiro arquiivo no bash.
+Alterado e atualizado.
